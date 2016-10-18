@@ -1,7 +1,5 @@
 --------------------------------------------------------------------------------
---                       Maria Alejandra Gomez Montoya                        --
---                       Juan Sebastian Herrera Giraldo                       --
---                       Cristhian Andrés Rivera Osorio                       --
+--                      miguel angel vidal             --
 --------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;

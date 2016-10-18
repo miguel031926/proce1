@@ -1,7 +1,5 @@
 --------------------------------------------------------------------------------
---                       Maria Alejandra Gomez Montoya                        --
---                       Juan Sebastian Herrera Giraldo                       --
---                       Cristhian Andrés Rivera Osorio                       --
+--              miguel angel vidal    --
 --------------------------------------------------------------------------------
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;

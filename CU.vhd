@@ -1,4 +1,4 @@
---- Estiven Escobar Pulgarín cod:1088339047--- 
+
 ---Miguel Angel Vidal    cod:1088326138---
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
